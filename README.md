@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Russelle Amorsolo 👋
-<div align="center"> <img src="https://media.tenor.com/R7DsESDMS-YAAAAj/yo-luffy.gif " width="400" /> </div>
+<div align="center"> <img src="https://media.tenor.com/R7DsESDMS-YAAAAj/yo-luffy.gif " width="200" /> </div>
 
 ---
 
@@ -48,12 +48,4 @@
 
 </div>
 
-## 📈 Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true)
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=120&section=footer" />
-</div>
