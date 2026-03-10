@@ -1,10 +1,7 @@
 <div align="center">
 
 # Hi, I'm Russelle Amorsolo 👋
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Running.png" width="100"
-    />
-</div>
+<div align="center"> <img src="https://media.tenor.com/R7DsESDMS-YAAAAj/yo-luffy.gif " width="400" /> </div>
 
 ---
 
