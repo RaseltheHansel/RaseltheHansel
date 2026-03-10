@@ -1,6 +1,6 @@
 <div align="center">
 <div align="center"> <img src="https://media.tenor.com/R7DsESDMS-YAAAAj/yo-luffy.gif " width="150" /> </div>
-# Hi, I'm Russelle Amorsolo 👋
+ I'm Russelle Amorsolo 👋
 
 ---
 
