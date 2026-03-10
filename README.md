@@ -2,8 +2,6 @@
 
 # Hi, I'm Russelle Amorsolo 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=Full-Stack+Engineer;React+%7C+Node.js+%7C+TypeScript;Building+AI-Automation" alt="Typing SVG" />
-
 </div>
 
 ---
