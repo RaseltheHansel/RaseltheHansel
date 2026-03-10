@@ -2,7 +2,7 @@
 <div align="center"> <img src="https://media.tenor.com/R7DsESDMS-YAAAAj/yo-luffy.gif " width="150" /> </div>
 <div align="center">
 
-<h1 style="font-size:60px;">Hi, I'm Russelle Amorsolo 👋</h1>
+<h1 style="font-size:60px;">I'm Russelle Amorsolo 👋</h1>
 
 </div>
 
