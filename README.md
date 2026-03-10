@@ -1,8 +1,10 @@
-<div align="center">
+
 <div align="center"> <img src="https://media.tenor.com/R7DsESDMS-YAAAAj/yo-luffy.gif " width="150" /> </div>
- I'm Russelle Amorsolo 👋
+<div align="center">
+
+<h1 style="font-size:60px;">Hi, I'm Russelle Amorsolo 👋</h1>
+
 </div>
----
 
 ## 🚀 Tech Stack
 
