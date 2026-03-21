@@ -44,13 +44,6 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/RaseltheHansel/RaseltheHansel/output/github-pacman-dark.gif" />
-</div>
-
 ---
 
 ## 🤝 Connect with Me
@@ -62,5 +55,3 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:@gmail.com)
 
 </div>
-
-
